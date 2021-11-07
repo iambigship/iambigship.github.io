@@ -1,12 +1,12 @@
 # Site settings
-title: Android_大船
-email: clipperL@126.com
+title: 我中大船
+email: clipperL@1163.com
 description: > # this means to ignore newlines until "baseurl:"
-  clipperl's blog
+  大船的blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://clipperl.top/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  clipperL
+github_username:  iambigship
 
 # Build settings
 markdown: kramdown
